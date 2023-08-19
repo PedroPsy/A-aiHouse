@@ -1,0 +1,2 @@
+[0		Gabriella		Pedido: [Salgado: empada, Açaí{ Tamanho = G, adicionais = LEITEPO}]		 Valor total: R$ 36,00
+]
